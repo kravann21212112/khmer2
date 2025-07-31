@@ -47,3 +47,7 @@ nav{
     justify-content:center;
 }
 ```
+## Check list
+- [x] Home page 
+- [x] about page
+- [ ] contact page
