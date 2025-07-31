@@ -59,4 +59,5 @@ CSS framework[kah](https://kahoot.it/answer/result)
 
 
 ## Image dashboard
-![Dashboard](![alt text](image.png))
+
+![alt text](image.png)
